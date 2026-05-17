@@ -1,0 +1,7 @@
+tmp
+imagenet
+data/**/
+experiments/**
+eeg2features/experiments/**
+__pycache__
+.claude
